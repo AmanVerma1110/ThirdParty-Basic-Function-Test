@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-17T14:32:43 IST" name="Default suite" finished-at="2023-01-17T14:33:10 IST" duration-ms="27023">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T14:32:43 IST" name="Default test" finished-at="2023-01-17T14:33:10 IST" duration-ms="27023">
+      <class name="com.test.appium.InstaTest">
+        <test-method signature="testinsta()[pri:0, instance:com.test.appium.InstaTest@35cabb2a]" started-at="2023-01-17T14:32:43 IST" name="testinsta" finished-at="2023-01-17T14:33:10 IST" duration-ms="26996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinsta -->
+      </class> <!-- com.test.appium.InstaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
